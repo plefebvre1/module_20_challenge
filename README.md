@@ -2,7 +2,7 @@
 Module 20 challenge repository containing a Solidity smart contract that accepts two user addresses to control a joint savings account
 
 With this contract you can set two accounts to jointly own the contract:
-![SetAccounts](/Images/SettingAccounts.png)
+![SetAccounts](/Images/SettingTwoAccounts.png)
 
 You can deposit ether into the contract:
 ![Deposit](/Images/5EthTransaction.png)
